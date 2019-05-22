@@ -1,5 +1,10 @@
-.header{
+.doc{
     width: 960px;
+    margin: auto;
+}
+
+.header{
+
     background-color: #ffffff;
     border-color: #cccccc;
 }
