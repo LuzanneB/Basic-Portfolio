@@ -64,8 +64,9 @@ form{
     color:#777777;
     font-size: larger;
 }
-.title2{
+.heading2{
     color: #4aaaa5;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 textarea{
     width: 100%;
@@ -111,7 +112,7 @@ input{
     color: #ffffff;
     padding:10px 0 10px 0;
     text-align: center;
-    z-index: 3;
+   
 }
 .relative{
     position:relative;
@@ -120,5 +121,7 @@ input{
 }
 .absolute{
     position: absolute;
-   
+    top: 140px;
+    left:15px;
+    z-index: 3;
 }
